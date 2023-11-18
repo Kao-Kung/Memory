@@ -1,0 +1,77 @@
+.web_box {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 20% auto;
+}
+.head_box {
+    background-image: url(./img/images\ \(6\).jpg);
+    /* background-color: lavender; */
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.port_box {
+    color:deeppink; text-shadow:darkviolet 0em 0em 0.5em, 0em 0em 0.5em ; 
+}
+.body_box {
+    /* background-image: url(./img/High_resolution_wallpaper_background_ID_77700420511.webp); */
+    /* background-color: azure; */
+}
+.contentandimage1_box {
+    display: grid;
+    grid-template-columns: 65% auto;
+    background-image: url(./img/High_resolution_wallpaper_background_ID_77700420511.webp);
+}
+.string1_box {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.item_box {
+    display: flex;
+}
+.QRcode_box {
+    width: 20%;
+    height: 20%;
+    margin: 40px;
+    padding-left: 60px;
+}
+.Vtuber_box {
+    width: 20%;
+    height: 20%;
+    margin: 22px;
+    padding: 15px;
+}
+.Stelle_box {
+    width: 20%;
+    height: 20%;
+    margin: 35px;
+    padding: 15px;
+}
+.contact_box {
+    display: grid;
+    grid-template-columns: 35% auto;
+    background-image: url(./img/High_resolution_wallpaper_background_ID_77700420511\(flip\).webp);
+}
+.string2_box {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.prg1 {
+    color:orange; text-shadow: black 0em 0em 0.5em;
+}
+.prg2 {
+    color:midnightblue;
+}
+.prg3 {
+    color:purple;
+}
+.prg4 {
+    color:lawngreen;
+}
+.changesize_box {
+    font-size: 60px;
+}
